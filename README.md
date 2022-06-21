@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Einzigart
-- 👀 I’m interested in keyboard, maybe
-- 🌱 I’m currently learning electrical engineering
+A keyboard enthusiast and electrical engineering undergraduate
 
 <!---
 Einzigart/Einzigart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
