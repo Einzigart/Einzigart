@@ -1,4 +1,4 @@
-A keyboard enthusiast and electrical engineering undergraduate
+A guy that interested in mechanical keyboard and web development.
 
 <!---
 Einzigart/Einzigart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
